@@ -77,4 +77,40 @@
     <string name="diagnosis_default_severity_icon">⚠️</string>
     <string name="diagnosis_confidence_format">%.1f%%</string>
     <string name="diagnosis_severity_format">Mức độ: %1$s (%2$s)</string>
+
+        <string name="dashboard_title">Tổng quan</string>
+        <string name="dashboard_subtitle">Theo dõi tình trạng cây trồng và bệnh cây</string>
+        <string name="notification_description">Thông báo</string>
+
+        <!-- Bộ lọc -->
+        <string name="area_filter_title">Khu vực thống kê</string>
+        <string name="area_filter_description">Chọn khu vực thống kê</string>
+
+        <!-- Thẻ thống kê -->
+        <string name="total_plants">Tổng số cây</string>
+        <string name="sick_plants">Cây bị bệnh</string>
+        <string name="disease_rate">Tỷ lệ cây bệnh</string>
+        <string name="disease_types">Loại bệnh</string>
+        <string name="statistic_value_placeholder">—</string>
+
+        <!-- Biểu đồ -->
+        <string name="plant_chart_title">Thống kê theo loại cây</string>
+        <string name="plant_chart_description">Biểu đồ số cây bị bệnh theo từng loại cây</string>
+        <string name="disease_chart_title">Thống kê bệnh cây</string>
+        <string name="disease_chart_description">Phân tích mức độ phổ biến của từng bệnh</string>
+        <string name="chart_empty">Chưa có dữ liệu thống kê</string>
+
+        <!-- Bệnh phổ biến -->
+        <string name="most_common_disease_title">Bệnh phổ biến nhất</string>
+        <string name="most_common_disease_empty">Chưa có dữ liệu</string>
+        <string name="view_statistics_detail">Xem thống kê chi tiết</string>
+
+        <!-- Điều hướng -->
+        <string name="navigation_home">Trang chủ</string>
+        <string name="navigation_area">Khu vực</string>
+        <string name="navigation_plants">Cây trồng</string>
+        <string name="navigation_disease">Bệnh cây</string>
+        <string name="navigation_statistics">Thống kê</string>
+        <string name="disease_rate_format">%1$.1f%%</string>
+        <string name="statistical_activity_title">Thống kê cây trồng</string>
 </resources>
